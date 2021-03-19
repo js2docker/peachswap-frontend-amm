@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.peachswap.finance/'
+    href: 'https://www.juicypeachswap.com/'
   },
   {
     label: 'Trade',
@@ -13,23 +13,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.peachswap.finance/'
+        href: 'https://exchange.juicypeachswap.com/'
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.peachswap.finance/#/pool'
+        href: 'https://exchange.juicypeachswap.com/#/pool'
       }
     ]
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.peachswap.finance/farms'
+    href: 'https://www.juicypeachswap.com/farms'
   },
   {
     label: 'Baskets',
     icon: 'PoolIcon',
-    href: 'https://www.peachswap.finance/baskets'
+    href: 'https://www.juicypeachswap.com/baskets'
   },
   // {
   //   label: 'Lottery',
@@ -64,15 +64,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/JuicyPeachSwap/",
+        href: "https://github.com/JuicyPeachSwapDefi/",
       },
       {
         label: "Docs",
-        href: "https://peachswap.gitbook.io/juicypeachswap/",
+        href: "https://juicypeachswap.gitbook.io/juicypeachswap/",
+      },
+      {
+        label: "Roadmap",
+        href: "https://juicypeachswap.gitbook.io/juicypeachswap/roadmap",
       },
       {
         label: "Blog",
-        href: "https://medium.com/@peachswap_83741",
+        href: "https://medium.com/@juicypeachswap",
       },
     ],
   },
