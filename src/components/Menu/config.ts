@@ -26,11 +26,11 @@ const config: MenuEntry[] = [
     icon: 'FarmIcon',
     href: 'https://www.juicypeachswap.com/farms'
   },
-  {
-    label: 'Baskets',
-    icon: 'PoolIcon',
-    href: 'https://www.juicypeachswap.com/baskets'
-  },
+  // {
+  //  label: 'Baskets',
+  //  icon: 'PoolIcon',
+  //  href: 'https://www.juicypeachswap.com/baskets'
+  // },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
