@@ -24,7 +24,7 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.juicypeachswap.com/farms'
+    href: '/coming-soon'
   },
   // {
   //  label: 'Baskets',
@@ -42,7 +42,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x9512e7fD29c187B31b2405396EC4217624EEC08c', // testnet address - to be changed
+        href: 'https://pancakeswap.info/', // testnet address - to be changed
       },
       //  {
       //  label: 'CoinGecko',
@@ -63,20 +63,8 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: "Github",
-        href: "https://github.com/JuicyPeachSwapDefi/",
-      },
-      {
         label: "Docs",
         href: "https://juicypeachswap.gitbook.io/juicypeachswap/",
-      },
-      {
-        label: "Roadmap",
-        href: "https://juicypeachswap.gitbook.io/juicypeachswap/roadmap",
-      },
-      {
-        label: "Blog",
-        href: "https://medium.com/@juicypeachswap",
       },
     ],
   },
